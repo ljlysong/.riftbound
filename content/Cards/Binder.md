@@ -1,6 +1,3 @@
-> [!tip] TCGplayer pricing — checked 2026-09-08 (browser-verified)
-> Prices are the top English + Near Mint listing on TCGplayer's own sorted listing table, read directly with a browser — skipping only listings whose own title discloses a foreign-language copy (e.g. "Chinese", "*Chinese*") mislabeled as English/Near Mint. No further hunting past that point. Sorted by line total, highest to lowest. Quantities are owned/owned — every card here is already in the binder.
-> **Estimated binder total: $221.10**
 
 - [ ] [Master Yi - Wuju Bladesman (Starter)](https://www.tcgplayer.com/product/653154/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-master-yi-wuju-bladesman-starter?page=1&Language=English) — 1/1 — OGS-019/24 (Origins: Proving Grounds, Rare)
 	- [ ] $25.59

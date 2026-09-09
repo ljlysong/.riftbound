@@ -9,10 +9,10 @@ configuration:
   locale: en-US
   baseUrl: riftbound.lyso.dev
   ignorePatterns:
-    - private
-    - templates
-    - .obsidian
-    - Unprocessed
+    - "**/private/**"
+    - "**/templates/**"
+    - "**/.obsidian/**"
+    - "**/Unprocessed/**"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -131,6 +131,7 @@ plugins:
       passwordField: password
       unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json
+    order: 95
   - source: "@quartz-community/stacked-pages"
     enabled: false
     layout:

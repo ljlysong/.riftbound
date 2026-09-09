@@ -1,0 +1,18 @@
+diff --git a/node_modules/@quartz-community/description/dist/index.js b/node_modules/@quartz-community/description/dist/index.js
+index daba525..ac61138 100644
+--- a/node_modules/@quartz-community/description/dist/index.js
++++ b/node_modules/@quartz-community/description/dist/index.js
+@@ -17,7 +17,12 @@ function all(node) {
+   while (++index < node.children.length) {
+     result[index] = one(node.children[index]);
+   }
+-  return result.join("");
++  return result.reduce((acc, cur) => {
++    if (!acc) return cur;
++    if (!cur) return acc;
++    const needsSpace = !/\s$/.test(acc) && !/^\s/.test(cur);
++    return acc + (needsSpace ? " " : "") + cur;
++  }, "");
+ }
+ "function" == typeof Promise ? Promise.prototype.then.bind(Promise.resolve()) : setTimeout, Math.random().toString(8);
+ 
