@@ -6,7 +6,7 @@ Staging area for inventory events that haven't been applied to the collection ye
 
 ## The three scenarios
 
-- [[Sold]] — cards sold for cash. Records live in `content/private/Sold.md` instead (local-only, gitignored) — see that file's note for why.
+- [[Other/Unprocessed/Sold]] — cards sold for cash. Records live in `content/private/Sold.md` instead (local-only, gitignored) — see that file's note for why.
 - [[Traded]] — cards traded away/received.
 - [[Pulled]] — cards pulled from opening packs/boxes.
 
