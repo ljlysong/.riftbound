@@ -26,8 +26,6 @@
 	- [ ] $8.99*1=
 - [ ] [Lux - Crownguard](https://www.tcgplayer.com/product/653149/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-lux-crownguard?page=1&Language=English) — 2/2 — OGS-014/24 (Origins: Proving Grounds, Epic)
 	- [ ] $4.00*2=
-- [x] [Mind Rune (Alt Art)](https://www.tcgplayer.com/product/692934/riftbound-league-of-legends-trading-card-game-unleashed-mind-rune-r03a?Language=English&page=1) — 1/1 — UNL-R03a (not in database — no link, domain inferred from rune numbering only)
-	- [x] $6.14*1=
 - [ ] [LeBlanc, Everywhere At Once (Alt Art)](https://www.tcgplayer.com/product/684597/riftbound-league-of-legends-trading-card-game-unleashed-leblanc-everywhere-at-once-alternate-art?page=1&Language=English) — 1/1 — UNL-090a/219 (Unleashed, Epic)
 	- [ ] $6.00*1=
 - [ ] [Kharox](https://www.tcgplayer.com/product/707652/riftbound-league-of-legends-trading-card-game-vendetta-kharox?page=1&Language=English) — 1/1 — VEN-114/166 (Vendetta, Epic)
