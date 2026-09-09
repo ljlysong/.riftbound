@@ -14,7 +14,7 @@ Collection tracking, set breakdowns, and rules reference for **Riftbound: League
 - [[OGN]] — Origins
 - [[UNL]] — Unleashed
 - [[VEN]] — Vendetta
-- [[SPF]] — Spiritforged
+- [[SFD]] — Spiritforged
 
 ## Rules
 
