@@ -3,68 +3,68 @@
 > **Estimated binder total: $221.10**
 
 - [ ] [Master Yi - Wuju Bladesman (Starter)](https://www.tcgplayer.com/product/653154/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-master-yi-wuju-bladesman-starter?page=1&Language=English) — 1/1 — OGS-019/24 (Origins: Proving Grounds, Rare)
-	- [ ] $25.59*1=
+	- [ ] $25.59
 - [ ] [Vilemaw (Alt Art)](https://www.tcgplayer.com/product/684492/riftbound-league-of-legends-trading-card-game-unleashed-vilemaw-alternate-art?page=1&Language=English) — 1/1 — UNL-060a/219 (Unleashed, Epic)
-	- [ ] $25.50*1=
+	- [ ] $25.50
 - [ ] [Vilemaw](https://www.tcgplayer.com/product/684125/riftbound-league-of-legends-trading-card-game-unleashed-vilemaw?page=1&Language=English) — 1/1 — UNL-060/219 (Unleashed, Epic)
-	- [ ] $21.53*1=
+	- [ ] $21.53
 - [ ] [Baron Nashor](https://www.tcgplayer.com/product/683790/riftbound-league-of-legends-trading-card-game-unleashed-baron-nashor?page=1&Language=English) — 1/1 — UNL-147/219 (Unleashed, Epic)
-	- [ ] $21.52*1=
+	- [ ] $21.52
 - [ ] [Lux - Lady of Luminosity (Starter)](https://www.tcgplayer.com/product/653156/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-lux-lady-of-luminosity-starter?page=1&Language=English) — 1/1 — OGS-021/24 (Origins: Proving Grounds, Rare)
-	- [ ] $13.00*1=
+	- [ ] $13.00
 - [ ] [Moonfall](https://www.tcgplayer.com/product/684527/riftbound-league-of-legends-trading-card-game-unleashed-moonfall?page=1&Language=English) — 1/1 — UNL-198/219 (Unleashed, Epic)
-	- [ ] $12.00*1=
+	- [ ] $12.00
 - [ ] [Flash](https://www.tcgplayer.com/product/653146/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-flash?page=1&Language=English) — 2/2 — OGS-011/24 (Origins: Proving Grounds, Common)
-	- [ ] $6.00*2=
+	- [ ] $6.00
 - [ ] [Thrill of the Hunt](https://www.tcgplayer.com/product/685233/riftbound-league-of-legends-trading-card-game-unleashed-thrill-of-the-hunt?page=1&Language=English) — 1/1 — UNL-184/219 (Unleashed, Epic)
-	- [ ] $11.99*1=
+	- [ ] $11.99
 - [ ] [Vi, Peacekeeper](https://www.tcgplayer.com/product/685595/riftbound-league-of-legends-trading-card-game-unleashed-vi-peacekeeper?page=1&Language=English) — 2/2 — UNL-176/219 (Unleashed, Rare)
-	- [ ] $4.99*2=
+	- [ ] $4.99
 - [ ] [Annie - Stubborn](https://www.tcgplayer.com/product/653145/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-annie-stubborn?page=1&Language=English) — 2/2 — OGS-010/24 (Origins: Proving Grounds, Rare)
-	- [ ] $4.74*2=
-- [ ] [Chaos Rune (Alt Art)](https://www.tcgplayer.com/product/692936/riftbound-league-of-legends-trading-card-game-unleashed-chaos-rune-r05a?page=1&Language=English) — 1/1 — UNL-R05a (not in database — no link, domain inferred from rune numbering only)
-	- [ ] $8.99*1=
+	- [ ] $4.74
+- [ ] [Chaos Rune (Alt Art)](https://www.tcgplayer.com/product/692936/riftbound-league-of-legends-trading-card-game-unleashed-chaos-rune-r05a?page=1&Language=English) — 1/1 — UNL-R05a
+	- [ ] $8.99
 - [ ] [Lux - Crownguard](https://www.tcgplayer.com/product/653149/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-lux-crownguard?page=1&Language=English) — 2/2 — OGS-014/24 (Origins: Proving Grounds, Epic)
-	- [ ] $4.00*2=
+	- [ ] $4.00
 - [ ] [LeBlanc, Everywhere At Once (Alt Art)](https://www.tcgplayer.com/product/684597/riftbound-league-of-legends-trading-card-game-unleashed-leblanc-everywhere-at-once-alternate-art?page=1&Language=English) — 1/1 — UNL-090a/219 (Unleashed, Epic)
-	- [ ] $6.00*1=
+	- [ ] $6.00
 - [ ] [Kharox](https://www.tcgplayer.com/product/707652/riftbound-league-of-legends-trading-card-game-vendetta-kharox?page=1&Language=English) — 1/1 — VEN-114/166 (Vendetta, Epic)
-	- [ ] $4.26*1=
+	- [ ] $4.26
 - [ ] [Annie - Dark Child (Starter)](https://www.tcgplayer.com/product/653152/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-annie-dark-child-starter?page=1&Language=English) — 1/1 — OGS-017/24 (Origins: Proving Grounds, Rare)
-	- [ ] $3.90*1=
+	- [ ] $3.90
 - [ ] [Scuttle Crab](https://www.tcgplayer.com/product/685519/riftbound-league-of-legends-trading-card-game-unleashed-scuttle-crab?page=1&Language=English) — 1/1 — UNL-053/219 (Unleashed, Rare)
-	- [ ] $3.51*1=
+	- [ ] $3.51
 - [ ] [Master Yi, Tempered (Alt Art)](https://www.tcgplayer.com/product/684601/riftbound-league-of-legends-trading-card-game-unleashed-master-yi-tempered-alternate-art?page=1&Language=English) — 1/1 — UNL-113a/219 (Unleashed, Rare)
-	- [ ] $3.46*1=
+	- [ ] $3.46
 - [ ] [Annie - Fiery](https://www.tcgplayer.com/product/653136/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-annie-fiery?page=1&Language=English) — 2/2 — OGS-001/24 (Origins: Proving Grounds, Epic)
-	- [ ] $1.17*2=
+	- [ ] $1.17
 - [ ] [Master Yi - Honed](https://www.tcgplayer.com/product/653144/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-master-yi-honed?page=1&Language=English) — 2/2 — OGS-009/24 (Origins: Proving Grounds, Epic)
-	- [ ] $1.02*2=
+	- [ ] $1.02
 - [ ] [Highlander](https://www.tcgplayer.com/product/653155/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-highlander?page=1&Language=English) — 2/2 — OGS-020/24 (Origins: Proving Grounds, Epic)
-	- [ ] $0.64*2=
+	- [ ] $0.64
 - [ ] [Garen - Commander](https://www.tcgplayer.com/product/653148/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-garen-commander?page=1&Language=English) — 2/2 — OGS-013/24 (Origins: Proving Grounds, Epic)
-	- [ ] $0.55*2=
+	- [ ] $0.55
 - [ ] [Lux - Illuminated](https://www.tcgplayer.com/product/653141/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-lux-illuminated?page=1&Language=English) — 2/2 — OGS-006/24 (Origins: Proving Grounds, Rare)
-	- [ ] $0.50*2=
+	- [ ] $0.50
 - [ ] [Tibbers](https://www.tcgplayer.com/product/653153/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-tibbers?page=1&Language=English) — 2/2 — OGS-018/24 (Origins: Proving Grounds, Epic)
-	- [ ] $0.50*2=
+	- [ ] $0.50
 - [ ] [Garen - Might of Demacia (Starter)](https://www.tcgplayer.com/product/653158/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-garen-might-of-demacia-starter?page=1&Language=English) — 1/1 — OGS-023/24 (Origins: Proving Grounds, Rare)
-	- [ ] $0.99*1=
+	- [ ] $0.99
 - [ ] [Final Spark](https://www.tcgplayer.com/product/653157/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-final-spark?page=1&Language=English) — 2/2 — OGS-022/24 (Origins: Proving Grounds, Epic)
-	- [ ] $0.49*2=
+	- [ ] $0.49
 - [ ] [Master Yi - Meditative](https://www.tcgplayer.com/product/653139/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-master-yi-meditative?page=1&Language=English) — 2/2 — OGS-004/24 (Origins: Proving Grounds, Rare)
-	- [ ] $0.49*2=
+	- [ ] $0.49
 - [ ] [Garen - Rugged](https://www.tcgplayer.com/product/653142/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-garen-rugged?page=1&Language=English) — 2/2 — OGS-007/24 (Origins: Proving Grounds, Rare)
-	- [ ] $0.49*2=
+	- [ ] $0.49
 - [ ] [Death from Below](https://www.tcgplayer.com/product/685675/riftbound-league-of-legends-trading-card-game-unleashed-death-from-below?page=1&Language=English) — 1/1 — UNL-186/219 (Unleashed, Epic)
-	- [ ] $0.79*1=
+	- [ ] $0.79
 - [ ] [Decisive Strike](https://www.tcgplayer.com/product/653159/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-decisive-strike?page=1&Language=English) — 2/2 — OGS-024/24 (Origins: Proving Grounds, Epic)
-	- [ ] $0.35*2=
-- [ ] [Order Rune](https://www.tcgplayer.com/product/706078/riftbound-league-of-legends-trading-card-game-vendetta-order-rune?page=1&Language=English) — 1/1 — VEN-R06a (Vendetta, Common) — *link is base printing, alt art not confirmed*
-	- [ ] $0.04*1=
+	- [ ] $0.35
+- [ ] [Order Rune](https://www.tcgplayer.com/product/706078/riftbound-league-of-legends-trading-card-game-vendetta-order-rune?page=1&Language=English) — 1/1 — VEN-R06a (Vendetta, Common)
+	- [ ] $0.04
 - [ ] [Gardens of Becoming](https://www.tcgplayer.com/product/684675/riftbound-league-of-legends-trading-card-game-unleashed-gardens-of-becoming?page=1&Language=English) — 1/1 — UNL-213/219 (Unleashed, Uncommon)
-	- [ ] $0.01*1=
+	- [ ] $0.01
 - [ ] [Amateur Recital](https://www.tcgplayer.com/product/685952/riftbound-league-of-legends-trading-card-game-unleashed-amateur-recital?page=1&Language=English) — 1/1 — UNL-207/219 (Unleashed, Uncommon)
-	- [ ] $0.01*1=
+	- [ ] $0.01
 - [ ] [The Academy](https://www.tcgplayer.com/product/685025/riftbound-league-of-legends-trading-card-game-unleashed-the-academy?page=1&Language=English) — 1/1 — UNL-216/219 (Unleashed, Uncommon)
-	- [ ] $0.01*1=
+	- [ ] $0.01
