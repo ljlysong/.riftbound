@@ -35,7 +35,21 @@ To enable/disable a feature or reorder page layout, edit `quartz.config.yaml` �
 
 **Deploy.** `.github/workflows/deploy.yml` builds on push to `v5` and publishes `public/` to GitHub Pages via the standard Pages artifact/deploy actions — this is the workflow that actually matters for this fork. `.github/workflows/ci.yaml` and `deploy-v5.yaml` are upstream Quartz's own CI/Cloudflare-preview workflows and are gated on `github.repository == 'jackyzha0/quartz'`, so they no-op on this fork; don't rely on them for anything.
 
-**Content root** is `content/` (Quartz's default vault dir, unset elsewhere — see `ignorePatterns` in `quartz.config.yaml` for what's excluded from the build within it, e.g. `.obsidian`, `private`, `templates`).
+**Content root** is `content/` (Quartz's default vault dir, unset elsewhere — see `ignorePatterns` in `quartz.config.yaml` for what's excluded from the build within it, e.g. `.obsidian`, `private`, `templates`, `Unprocessed`).
+
+## Inventory workflow
+
+Each set has a full bulk-inventory checklist (`content/Cards/OGN.md`, `UNL.md`, `VEN.md`, `SFD.md`) — one row per card, a blank/user-filled **Qty** column, no pricing. `content/Unprocessed/` is a staging area so the user doesn't have to hand-edit those tables every time something happens to their collection:
+
+- `content/Unprocessed/Traded.md` and `Pulled.md` — normal synced tables the user fills in as trades/pack-openings happen.
+- `content/Unprocessed/Sold.md` is a stub — the real cash-sale table is `content/private/Sold.md`, which is **gitignored and never synced** (financial data, kept local-only since the GitHub repo is public). Never move sale data into a synced file.
+
+When the user asks to **"process the Unprocessed folder"** (or similar — "process the trades", "process what I pulled"):
+1. For each filled-in row in `Traded.md`: decrement the given card's Qty (and increment the received card's Qty) in the relevant `content/Cards/<SET>.md` table — match by the `SET-NUM/total` code, not just name (cards can repeat across printings).
+2. For each filled-in row in `Pulled.md`: increment the pulled card's Qty in its set file, and append a line to `content/Acquisition Log.md`.
+3. For each filled-in row in `content/private/Sold.md`: decrement the sold card's Qty in its set file (and in `Binder.md` if it was tracked there as an owned single).
+4. After applying, clear the processed table back to just its header row (don't leave stale processed rows sitting around) — this applies to `content/private/Sold.md` too, even though it's never synced.
+5. Sync only the normal content (`npx quartz sync` already won't touch `private/` since it's gitignored — no special handling needed there beyond making sure edits actually landed in the file).
 
 ## Known gotchas
 

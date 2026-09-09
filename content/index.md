@@ -8,6 +8,8 @@ Collection tracking, set breakdowns, and rules reference for **Riftbound: League
 
 - [[Binder]] — full binder contents with TCGplayer pricing
 - [[Missing Cards]] — gaps still to fill
+- [[Acquisition Log]] — dated log of pulls and purchases
+- [[Collection Value]] — value and set-completion snapshots over time
 
 ### By set
 
@@ -15,6 +17,10 @@ Collection tracking, set breakdowns, and rules reference for **Riftbound: League
 - [[UNL]] — Unleashed
 - [[VEN]] — Vendetta
 - [[SFD]] — Spiritforged
+
+## Decks
+
+- [[Decks]] — current constructed decklists
 
 ## Rules
 
